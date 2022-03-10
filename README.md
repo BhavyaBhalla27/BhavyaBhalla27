@@ -21,7 +21,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 </h3>
 
 - 🔭 I’m currently working on **C++ Programming**.
-- 🌱 I’m currently learning **C++ and React**.
+- 🌱 I’m currently learning **C++ and Ethical Hacking**.
 - 🤝 I’m looking for help with **Data Structures and Algorithms**.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me **bhavya.bhalla2004@gmail.com**
